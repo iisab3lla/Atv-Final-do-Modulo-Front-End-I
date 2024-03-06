@@ -1,0 +1,47 @@
+.bloco2 {
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    width: 70vw;
+    height: 450px;
+    top: 260px;
+    left: 480px;
+}
+
+.nome {
+    position: relative;
+    left: 80px;
+    font-size: 61px;
+}
+
+
+.email {
+    font-size: 75%;
+    position: relative;
+    bottom: 65px;
+    left: 84px;
+    text-decoration: none;
+    color: #ab9bf3;
+}
+
+span {
+    color: #ab9bf3;
+}
+
+.descrição {
+   font-size: 99%;
+   position: relative;
+   bottom: 20px;
+   left: 84px;
+}
+
+.contatos {
+    position: relative;
+    top: 15px;
+    left: 81px;
+}
+
+.icons {
+    width: 55px;
+    height: 55px;
+    margin: 0 10px 0 0;
+}

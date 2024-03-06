@@ -1,0 +1,40 @@
+.bloco2 {
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    left: 470px;
+    top: 240px;
+    width: 72vw;
+    height: 50vh;
+}
+
+.conhecimentos {
+    position: relative;
+    left: 40px;
+    font-size: 33px
+}
+
+.gatinho {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+span {
+    color: #ab9bf3;
+}
+
+.divisória {
+    position: relative;
+    left: 40px;
+    background-color: #e4defd;
+    height: 7px;
+    width: 17vw;
+}
+
+ol {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}

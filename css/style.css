@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito";
+}
+
+.bloco1 {
+    background-color:#cecce0d0;
+    position: fixed;
+    top: 0;
+    left: 50px;
+    height:100vh;
+    width: 370px;  
+}
+
+.perfil {
+    position: relative;
+    top: 240px;
+    left: 2px;
+}
+
+.isabella {
+    border-radius: 100%;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    width: 280px;
+}
+
+.links {
+    text-align: center;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 310px;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: #ab9bf3;
+    transition: 350ms linear;
+    font-size: 99%;
+}
+
+
+

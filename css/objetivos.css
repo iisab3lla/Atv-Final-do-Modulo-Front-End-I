@@ -1,0 +1,46 @@
+.bloco2 {
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    left: 470px;
+    top: 209px;
+    width: 72vw;
+    height: 50vh;
+}
+
+.objetivos {
+    position: relative;
+    left: 40px;
+    font-size: 34px
+}
+
+.gatinho {
+    position: relative;
+    top: 8px;
+    left: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+span {
+    color: #ab9bf3;
+}
+
+.divisória {
+    position: relative;
+    left: 40px;
+    background-color: #e4defd;
+    height: 7px;
+    width: 17vw;
+}
+
+.pessoais {
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+
+.profissionais {
+    position: relative;
+    left: 70px;
+    top: 60px;
+}
